@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<CGraph xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tops>
+    <CGraphVertex>
+      <id>0</id>
+      <X>131</X>
+      <Y>317</Y>
+      <Highlight>false</Highlight>
+      <VertexColor />
+    </CGraphVertex>
+    <CGraphVertex>
+      <id>1</id>
+      <X>388</X>
+      <Y>290</Y>
+      <Highlight>false</Highlight>
+      <VertexColor />
+    </CGraphVertex>
+    <CGraphVertex>
+      <id>2</id>
+      <X>140</X>
+      <Y>140</Y>
+      <Highlight>false</Highlight>
+      <VertexColor />
+    </CGraphVertex>
+  </Tops>
+  <Edges>
+    <CGraphEdge>
+      <start>
+        <id>0</id>
+        <X>131</X>
+        <Y>317</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </start>
+      <end>
+        <id>1</id>
+        <X>388</X>
+        <Y>290</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </end>
+      <X>
+        <X>141</X>
+        <Y>315</Y>
+      </X>
+      <Y>
+        <X>377</X>
+        <Y>291</Y>
+      </Y>
+      <Highlight>false</Highlight>
+      <EdgeColor />
+    </CGraphEdge>
+    <CGraphEdge>
+      <start>
+        <id>0</id>
+        <X>131</X>
+        <Y>317</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </start>
+      <end>
+        <id>2</id>
+        <X>140</X>
+        <Y>140</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </end>
+      <X>
+        <X>131</X>
+        <Y>306</Y>
+      </X>
+      <Y>
+        <X>139</X>
+        <Y>150</Y>
+      </Y>
+      <Highlight>false</Highlight>
+      <EdgeColor />
+    </CGraphEdge>
+  </Edges>
+</CGraph>

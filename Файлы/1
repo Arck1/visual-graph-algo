@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<CGraph xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tops>
+    <CGraphVertex>
+      <id>0</id>
+      <X>97</X>
+      <Y>309</Y>
+      <Highlight>false</Highlight>
+      <VertexColor />
+    </CGraphVertex>
+    <CGraphVertex>
+      <id>1</id>
+      <X>130</X>
+      <Y>154</Y>
+      <Highlight>false</Highlight>
+      <VertexColor />
+    </CGraphVertex>
+    <CGraphVertex>
+      <id>2</id>
+      <X>320</X>
+      <Y>103</Y>
+      <Highlight>false</Highlight>
+      <VertexColor />
+    </CGraphVertex>
+    <CGraphVertex>
+      <id>3</id>
+      <X>311</X>
+      <Y>315</Y>
+      <Highlight>false</Highlight>
+      <VertexColor />
+    </CGraphVertex>
+  </Tops>
+  <Edges>
+    <CGraphEdge>
+      <start>
+        <id>0</id>
+        <X>97</X>
+        <Y>309</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </start>
+      <end>
+        <id>1</id>
+        <X>130</X>
+        <Y>154</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </end>
+      <X>
+        <X>99</X>
+        <Y>298</Y>
+      </X>
+      <Y>
+        <X>127</X>
+        <Y>164</Y>
+      </Y>
+      <Highlight>false</Highlight>
+      <EdgeColor />
+    </CGraphEdge>
+    <CGraphEdge>
+      <start>
+        <id>1</id>
+        <X>130</X>
+        <Y>154</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </start>
+      <end>
+        <id>2</id>
+        <X>320</X>
+        <Y>103</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </end>
+      <X>
+        <X>140</X>
+        <Y>151</Y>
+      </X>
+      <Y>
+        <X>309</X>
+        <Y>105</Y>
+      </Y>
+      <Highlight>false</Highlight>
+      <EdgeColor />
+    </CGraphEdge>
+    <CGraphEdge>
+      <start>
+        <id>2</id>
+        <X>320</X>
+        <Y>103</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </start>
+      <end>
+        <id>0</id>
+        <X>97</X>
+        <Y>309</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </end>
+      <X>
+        <X>311</X>
+        <Y>110</Y>
+      </X>
+      <Y>
+        <X>105</X>
+        <Y>301</Y>
+      </Y>
+      <Highlight>false</Highlight>
+      <EdgeColor />
+    </CGraphEdge>
+    <CGraphEdge>
+      <start>
+        <id>2</id>
+        <X>320</X>
+        <Y>103</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </start>
+      <end>
+        <id>3</id>
+        <X>311</X>
+        <Y>315</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </end>
+      <X>
+        <X>319</X>
+        <Y>113</Y>
+      </X>
+      <Y>
+        <X>311</X>
+        <Y>304</Y>
+      </Y>
+      <Highlight>false</Highlight>
+      <EdgeColor />
+    </CGraphEdge>
+    <CGraphEdge>
+      <start>
+        <id>3</id>
+        <X>311</X>
+        <Y>315</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </start>
+      <end>
+        <id>0</id>
+        <X>97</X>
+        <Y>309</Y>
+        <Highlight>false</Highlight>
+        <VertexColor />
+      </end>
+      <X>
+        <X>300</X>
+        <Y>314</Y>
+      </X>
+      <Y>
+        <X>107</X>
+        <Y>309</Y>
+      </Y>
+      <Highlight>false</Highlight>
+      <EdgeColor />
+    </CGraphEdge>
+  </Edges>
+</CGraph>

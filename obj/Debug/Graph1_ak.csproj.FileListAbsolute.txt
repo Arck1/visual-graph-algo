@@ -1,0 +1,14 @@
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\bin\Debug\Graph1_ak.exe.config
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\bin\Debug\Graph1_ak.exe
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\bin\Debug\Graph1_ak.pdb
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.csprojResolveAssemblyReference.cache
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.FInfo.resources
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.FOperations.resources
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.Form1.resources
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.Properties.Resources.resources
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.csproj.GenerateResource.Cache
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.csproj.CoreCompileInputs.cache
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.exe
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.pdb
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.FDirectedGraphInfo.resources
+C:\Users\Arck\Downloads\Telegram Desktop\Graph1_ak_2\obj\Debug\Graph1_ak.FNotDirectedGraphInfo.resources
